@@ -1,7 +1,7 @@
 # Results
 | Technique   |    Model     | Train Accuracy | Val Accuracy |
 | ----------- | -----------  | -------- | -------- |
-| RGB video      | R3D (Resnet-18)       |  | (85 %) |
+| RGB video      | R3D (Resnet-18)       | 45.6  | (85 %) |
 | Grayscale      | R3D (Resnet-18)        | 58 % | 55 % |
 | Grayscale + sobel   | R3D (Resnet-18)         | 65 % | 62 % |
 | Grayscale + laplacian   | R3D (Resnet-18)     | 63 % | 60 % |
