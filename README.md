@@ -15,8 +15,8 @@
 | Grayscale + sobel   | R3D (Resnet-34)         | 56.84 % | 52.80 % | - |
 | Grayscale + sobel   | R(2+1D)         | 44.85 % | 45.29 % | - |
 | Grayscale + sobel   | R(2+1D) pretrained        | 75.01 % | 72.22 % | - |
-| Grayscale + sobel   | S3D pretrained         | 97.29 % | 93.37 % | 93.29 % |
 | Grayscale + sobel   | MC3_18 pretrained        | 72.37 % | 70.26 % | - |
+| Grayscale + sobel   | S3D pretrained         | **97.29 %** | **93.37 %** | **93.29 %** |
 
 # Results on HMDB-51
 | Technique   |    Model     | Train Accuracy | Val Accuracy | Test Accuracy |
@@ -25,8 +25,8 @@
 | RGB      | R3D (Resnet-18) pretrained       | 74.49 %  | 56.31 % | 23.22 % |
 | Grayscale + sobel   | R3D (Resnet-18) pretrained         | 56.35 % | 44.32 % | 44.04 % |
 | Grayscale + sobel   | R(2+1D) pretrained         | 40.84 % | 35.33 % | 33.50 % |
-| Grayscale + sobel   | S3D pretrained        | 90.34 % | 62.57 % | - |
 | Grayscale + sobel   | MC3_18 pretrained        | 72.20 % | 55.58 % | 56.68 % |
+| Grayscale + sobel   | S3D pretrained        | **90.34 %** | **62.57 %** | - |
 
 
 # To do
