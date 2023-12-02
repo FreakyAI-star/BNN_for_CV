@@ -17,6 +17,7 @@
 | Grayscale + sobel   | R(2+1D) pretrained        | 75.01 % | 72.22 % | - |
 | Grayscale + sobel   | MC3_18 pretrained        | 72.37 % | 70.26 % | - |
 | Grayscale + sobel   | S3D pretrained         | **97.29 %** | **93.37 %** | **93.29 %** |
+| RGB   | S3D pretrained         | **98.98 %** | **95.73 %** | **96.70 %** |
 
 # Results on HMDB-51
 | Technique   |    Model     | Train Accuracy | Val Accuracy | Test Accuracy |
