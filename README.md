@@ -28,6 +28,7 @@
 | Grayscale + sobel   | R(2+1D) pretrained         | 40.84 % | 35.33 % | 33.50 % |
 | Grayscale + sobel   | MC3_18 pretrained        | 72.20 % | 55.58 % | 56.68 % |
 | Grayscale + sobel   | S3D pretrained        | **90.34 %** | **62.57 %** | - |
+| RGB   | S3D pretrained        | ** %** | ** %** | ** %** |
 
 
 # To do
