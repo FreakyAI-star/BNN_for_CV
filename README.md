@@ -27,5 +27,5 @@
 | Grayscale + sobel   | R3D (Resnet-18) pretrained         | 56.35 % | 44.32 % | 44.04 % |
 | Grayscale + sobel   | R(2+1D) pretrained         | 40.84 % | 35.33 % | 33.50 % |
 | Grayscale + sobel   | MC3_18 pretrained        | 72.20 % | 55.58 % | 56.68 % |
-| RGB   | S3D pretrained        | **92. %** | **70. %** | **68. %** |
-| Grayscale + sobel   | S3D pretrained        | **90.34 %** | **62.57 %** | - |
+| RGB   | S3D pretrained        | **92.84 %** | **68.84 %** | **69.11 %** |
+| Grayscale + sobel   | S3D pretrained        | **90.34 %** | **62.57 %** | **63.23 %** |
