@@ -40,3 +40,9 @@
 | Grayscale + sobel   | MC3_18 pretrained        | 36.55 % |
 | RGB   | S3D pretrained        | **76.93 %** | 
 | Grayscale + sobel   | S3D pretrained        | **72.04 %** |
+
+
+# 64 frames
+No. of clips with frames less than 64 --> 176 
+Total no. of clips --> 9537 
+Average no. of frames --> 85.90447729894096
