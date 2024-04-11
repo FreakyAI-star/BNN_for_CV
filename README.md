@@ -42,7 +42,12 @@
 | Grayscale + sobel   | S3D pretrained        | **72.04 %** |
 
 
-# 64 frames
-No. of clips with frames less than 64 --> 176 
-Total no. of clips --> 9537 
-Average no. of frames --> 85.90447729894096
+# 64 frames (train split 01)
+1. No. of clips with frames less than 64 --> 176 
+2. Total no. of clips --> 9537 
+3. Average no. of frames --> 85.90
+
+# 64 frames (test split 01)
+1. No. of clips with frames less than 64 --> 109 
+2. Total no. of clips --> 3783 
+3. Average no. of frames --> 86.64
