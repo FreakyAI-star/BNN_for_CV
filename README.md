@@ -57,7 +57,7 @@
 2. Total no. of clips --> 3570
 3. Average no. of frames --> 43.88
 
-# UCF 64 frames (test split 01)
+# HMDB 32 frames (test split 01)
 1. No. of clips with frames less than 64 --> 30 
 2. Total no. of clips --> 1530 
 3. Average no. of frames --> 43.82
